@@ -1,1 +1,70 @@
+# ==============================
+# _config.yml — Profil GitHub Personnel
+# Auteur : ACHEIKH YOUNOUS ABOUKARY
+# ==============================
+
+title: "ACHEIKH YOUNOUS ABOUKARY"
+name: "ACHEIKH YOUNOUS ABOUKARY"
+description: >
+  Maître en Intelligence Artificielle — Spécialiste en NLP, Computer Vision et Génération de Code à partir de modèles UML.
+  Passionné par la programmation générative, l’Ingénierie Dirigée par les Modèles (MDE) et les systèmes intelligents hybrides.
+
+theme: jekyll-theme-minimal
+logo: "/assets/img/profile.png"  # Optionnel : chemin vers ta photo de profil
+show_downloads: false
+
+# ==============================
+# Liens sociaux
+# ==============================
+social_links:
+  github: "https://github.com/acheikh-younous"
+  linkedin: "https://linkedin.com/in/acheikh-younous"
+  email: "mailto:ton.email@exemple.com"
+  twitter: "https://x.com/ton_compte"
+  scholar: "https://scholar.google.com/citations?user=tonID"
+  researchgate: "https://www.researchgate.net/profile/ton-nom"
+
+# ==============================
+# Paramètres GitHub Pages
+# ==============================
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# ==============================
+# SEO et métadonnées
+# ==============================
+author:
+  name: "ACHEIKH YOUNOUS ABOUKARY"
+  email: "ton.email@exemple.com"
+  bio: "Chercheur en IA — NLP, Computer Vision, MDE & LLMs"
+  location: "Afrique Centrale"
+  website: "https://acheikh-younous.github.io"
+
+# ==============================
+# Personnalisation du thème
+# ==============================
+# (Pour le thème 'minimal')
+google_analytics: "UA-XXXXXXXXX-X"  # Facultatif
+show_excerpts: true
+show_downloads: false
+github:
+  is_project_page: false
+  is_user_page: true
+
+# ==============================
+# Couleurs (optionnel pour certains thèmes)
+# ==============================
+color:
+  background: "#f9fafb"
+  text: "#222222"
+  accent: "#007acc"
+
+# ==============================
+# Footer personnalisé
+# ==============================
+footer: >
+  © 2025 ACHEIKH YOUNOUS ABOUKARY — Tous droits réservés.
+  <br>Fait avec ❤️ et IA.
 
